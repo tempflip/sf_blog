@@ -1,5 +1,5 @@
 
-#Organizing Business Logic Using the Template Design Pattern
+#Organizing Business Logic Using the Template Design Patternn
 
 Every Apex developer knows the feeling when a once elegant Apex class, as new business logic is implemented, gets bigger, less readable and more messy. Spagetty code, simply said.
 
